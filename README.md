@@ -4,7 +4,7 @@ This README file provides instructions for running the code and required librari
 ## Directory Structure
 
 There are three main files, Task_A, Task_B, and Bonus, inside which you will find the respective python notebooks for each task.
-Also, in the main directory you will the Report.
+Also, in the main directory you will the Task Report and the Paper Report.
 
 ## Instructions for Running python files
 The main code for this assignment is located in the 7 files:
@@ -16,7 +16,7 @@ The main code for this assignment is located in the 7 files:
 - bonus_2_1.ipynb
 - bonus_2_2.ipynb
 
-The Task Report can be found as the "Task_Report.pdf" file.
+The Task Report can be found as the "Task_Report.pdf" file and the Paper Report can be found as the "BERTScorePaperReport.pdf" file.
 
 To run the .ipynb scripts, open the Python notebook and run the codes.
 
